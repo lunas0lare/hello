@@ -110,7 +110,7 @@ int main()
 	int count = file_size("animal.txt");
 	readfile("animal.txt", count, a);
 	BinaryTree(t, a, i, count);
-	cout << "hello";
+	//cout << "hello";
 	print(t);
 	return 0;
 }
