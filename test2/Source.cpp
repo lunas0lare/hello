@@ -111,6 +111,7 @@ int main()
 	readfile("animal.txt", count, a);
 	BinaryTree(t, a, i, count);
 	cout << "hello";
+	cout <<"con cac 0";
 	print(t);
 	return 0;
 }
