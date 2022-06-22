@@ -11,5 +11,7 @@ int main()
     cout <<"create a branch 1";
     cout<<"cc";
     cout << "test undo commit";
+
+    cout <<"test upload github";
     return 0;
 }   
