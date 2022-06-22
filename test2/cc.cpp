@@ -13,5 +13,6 @@ int main()
     cout << "test undo commit";
 
     cout <<"test upload github";
+    cout <<"lozz";
     return 0;
 }   
